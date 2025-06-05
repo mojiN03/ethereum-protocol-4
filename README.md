@@ -2,6 +2,8 @@
 
 ## 介绍
 
+[EPF（Ethereum Protocol Fellowship）](https://github.com/eth-protocol-fellows/cohort-five/blob/main/program-guide/program-details.md) 是由 EF 发起并资助的奖学金计划，每年一期，旨在从社区中遴选出 20 至 30 名优秀开发者参与。在奖学金计划期间，EF 提供导师指导和资金支持，帮助开发者迅速掌握以太坊协议层及客户端相关知识。通常，EPF 的报名在每年 4-5 月左右开启，经过大约半年的实践开发，最终在 11 月底的 Devcon/Devconnect 大会上展示成果。
+
 自去年起，EPF 增设了 [EPFsg（EPF Study Group）](https://epf.wiki/#/eps/intro) 教学计划，旨在吸引更多开发者提前学习相关知识，并同时推出了 [epf.wiki](https://epf.wiki/#/) 这一优秀学习资源。今年，EPFsg 与 EPF 均将启动。为此，我们发起了本次“残酷共学”活动，希望大家能迅速回顾相关资料，为今年 EPFsg 的入学做好充分准备，之后一同进步，共同学习。
 
 通过本次残酷共学，你将收获对于以太坊协议层（包括但不限于共识算法、网络运行等）非常深入的理解，也将获得跟以太坊协议层核心开发者、华语区 EPF Fellow 与资深开发的直接交流机会！
@@ -9,7 +11,7 @@
 
 ## 关键词
 
-Ethereum, Protocol，以太坊底层协议
+Ethereum, Protocol, 以太坊底层协议
 
 ## 面向人群
 
