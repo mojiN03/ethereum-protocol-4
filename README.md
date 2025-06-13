@@ -154,7 +154,6 @@ Passcode: 955074
 | [aliceyzhsu](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/aliceyzhsu.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
 | [Juktong](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/Juktong.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
 | [rockyfang](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/rockyfang.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
-| [Echo](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/Echo.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [EchoZheng2333](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/EchoZheng2333.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
 
