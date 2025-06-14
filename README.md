@@ -155,12 +155,13 @@ Passcode: 955074
 | [Juktong](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/Juktong.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
 | [rockyfang](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/rockyfang.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
 | [EchoZheng2333](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/EchoZheng2333.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
-| [jitash](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/jitash.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
+| [jitash](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/jitash.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [MrWynn](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/MrWynn.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
 | [OrionWu](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/OrionWu.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
 | [chesley666](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/chesley666.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
 | [ohko4711](https://github.com/IntensiveCoLearning/ethereum-protocol-4/blob/main/ohko4711.md) | | | | | | | | | | | | | | | |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
