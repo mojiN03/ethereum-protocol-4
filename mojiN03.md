@@ -7,7 +7,7 @@ timezone: UTC+8
 
 # 你的名字
 
-1. 自我介绍 mojiN，web3菜鸟
+1. 自我介绍 web3菜鸟，探寻web3的神秘
 2. 你认为你会完成本次残酷学习吗？尽全力完成
 3. 你的联系方式（推荐 Telegram）@mojiN03
 
